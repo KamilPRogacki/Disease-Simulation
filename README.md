@@ -7,3 +7,6 @@ Experiment demonstrating the impact of diseases on living animals. The rules are
     Both diseases decrease the chances of survival.
 
 You may notice that in every run that produces animals surviving for 11 years, there are often many animals that have disease "A", but almost never "B".
+
+
+if you run it in terminal, it might be helpful to uncomment last 2 lines of code
